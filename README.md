@@ -42,10 +42,10 @@ Variants of the Actions Tool, Participants and Location
 MARch_state_pre/post_date
 
 **Links**
-MARch Project Details
-MARch Actions Tool
-Contributing Guidelines
-Contribution Code of Conduct
+- MARch Project Details
+- MARch Actions Tool
+- Contributing Guidelines
+- Contribution Code of Conduct
 
 **License**
 Udhyam/MARch-Data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/
