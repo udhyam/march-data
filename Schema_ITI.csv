@@ -1,0 +1,44 @@
+Header,Data Type,Details
+district,string,District Name
+trade,string,Trade Name
+gender,string,Gender Name
+1a_grit_travel,string,1A. Have you traveled alone (by yourself) outside your town / long distances?
+1b_grit_travel,string,"1B. If no for ""Have you traveled alone (by yourself) outside your town / long distances?"" please share why?"
+2a_grit_responsibility,string,"2A. Have you taken responsibility for a task that you have to do regularly (for example household responsibility, ITI responsibility, earning or job responsibility)?"
+2b_grit_responsibility,string,"2B. If no for ""Have you taken responsibility for a task that you have to do regularly (for example household responsibility, ITI responsibility, earning or job responsibility)?"" please share why?"
+3a_grit_hardwork,string,"3A. Have you worked hard to create something of your own and then shared it with a group of people (for example ITI assignments, presentations)?"
+3b_grit_hardwork,string,"3B. If no for ""Have you worked hard to create something of your own and then shared it with a group of people (for example ITI assignments, presentations)?"" please share why?"
+4a_grit_discussion,string,"4A. Have you had a discussion with or challenged a figure of authority (for example parents, teachers, elders) to be able to do something that was important to you?"
+4b_grit_discussion,string,"4B. If no for ""Have you had a discussion with or challenged a figure of authority (for example parents, teachers, elders) to be able to do something that was important to you?"" please share why?"
+5a_grit_persevered,string,5A. Have you failed at doing something important but kept trying and eventually made progress?
+5b_grit_persevered,string,"5B. If no for ""Have you failed at doing something important but kept trying and eventually made progress?"" please share why?"
+6a_tnt_extraleadership,string,6A. Have you been a leader in an activity outside of studies that required you to manage something?
+6b_tnt_extraleadership,string,"6B. If no for ""Have you been a leader in an activity outside of studies that required you to manage something?"" please share why?"
+7a_tnt_newskill,string,7A. Have you taught yourself or independently learned a new skill?
+7b_tnt_newskill,string,"7B. If no for ""Have you taught yourself or independently learned a new skill?"" please share why?"
+8a_tnt_helpingothers,string,"8A. In the last 6 months, have you helped somebody in their professional or career growth (for example academic support, job seeking, or helping others set up a business)?"
+8b_tnt_helpingothers,string,"8B. If no for ""In the last 6 months, have you helped somebody in their professional or career growth (for example academic support, job seeking, or setting up a business)?"" please share why?"
+9a_tnt_risktaking,string,9A. Have you tried something that made you nervous or anxious?
+9b_tnt_risktaking,string,"9B. If no for ""Have you tried something that made you nervous or anxious?"" please share why?"
+10a_tnt_experiment,string,"10A. In the last 6 months, have you tried something new on your own?"
+10b_tnt_experiment,string,"10B. If no for ""In the last 6 months, have you tried something new on your own?"" please share why?"
+11a_sa_feedback,string,11A. Have you asked for feedback about yourself from someone?
+11b_sa_feedback,string,"11B. If no for ""Have you asked for feedback about yourself from someone?"" please share why?"
+12a_sa_helpseeking,string,12A. Have you asked for help when something was difficult or unclear?
+12b_sa_helpseeking,string,"12B. If no for ""Have you asked for help when something was difficult or unclear?"" please share why?"
+13a_sa_values,string,13A. Have you said no to doing something because you felt it was wrong or because it did not match with your values?
+13b_sa_values,string,"13B. If no for ""Have you said no to doing something because you felt it was wrong or because it did not match with your values?"" please share why?"
+14a_sa_emotions,string,14A. Have you identified and expressed the emotions that you feel?
+14b_sa_emotions,string,"14B. If no for ""Have you identified and expressed the emotions that you feel?"" please share why?"
+15a_sa_influence,string,15A. Have you changed someone's opinion about something that was important to you?
+15b_sa_influence,string,"15B. If no for ""Have you changed someone's opinion about something that was important to you?"" please share why?"
+16a_ind_doingthingsalone,string,16A. Have you done something that you really enjoyed even though you had to do it alone?
+16b_sa_doingthingsalone,string,"16B. If no for ""Have you done something that you really enjoyed even though you had to do it alone?"" please share why?"
+17a_ind_againstnorm,string,17A. Have you done something that was important to you even though most people around you said that you should not?
+17b_ind_againstnorm,string,"17B. If no for ""Have you done something that was important to you even though most people around you said that you should not?"" please share why?"
+18a_ind_reflection,string,18A. Have you changed something you were doing because you were unhappy?
+18b_ind_reflection,string,"18B. If no for ""Have you changed something you were doing because you were unhappy?"" please share why?"
+19a_ind_questioning,string,19A. Have you asked someone difficult questions or questions that made you feel uncomfortable?
+19b_ind_questioning,string,"19B. If no for ""Have you asked someone difficult questions or questions that made you feel uncomfortable?"" please share why?"
+20a_ind_informeddecision,string,20A. Have you researched or thought hard before making an important decision?
+20b_ind_informeddecision,string,"20B. If no for ""Have you researched or thought hard before making an important decision?"" please share why?"

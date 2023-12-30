@@ -1,0 +1,46 @@
+Header,Data Type,Details
+district,string,District Name
+gender,string,Gender of the respondent
+1a_grit_localtravel,string,"1A. Have you travelled alone (by yourself) in your town on foot or by using local transportation (auto, bus, train, etc)? "
+1b_grit_localtravel,string,"1B. If no for ""Have you travelled alone (by yourself) in your town on foot or by using local transportation (auto, bus, train, etc)?"", please share why:"
+2a_grit_errands,string,"2A. Have you run an errand alone (by yourself), such as buying items from a shop, picking up something for your family/home? "
+2b_grit_errands,string,"2B. If no for ""Have you run an errand alone (by yourself), such as buying items from a shop, picking up something for your family/home?"", please share why:"
+3a_grit_publicspeaking,string,3A. Have you spoken in front of a large group of people or given a speech? 
+3b_grit_publicspeaking,string,"3B. If no for ""Have you spoken in front of a large group of people or given a speech?"", please share why:"
+4a_grit_discussion,string,"4A. Have you had a discussion with or challenged a figure of authority (for example parents, teachers, elders) to be able to do something that was important to you? "
+4b_grit_discussion,string,"4B. If no for ""Have you had a discussion with or challenged a figure of authority (for example parents, teachers, elders) to be able to do something that was important to you?"", please share why:"
+5a_grit_persevered,string,"5A. Have you failed at doing something, but kept trying and eventually made progress? "
+5b_grit_persevered,string,"5B. If no for ""Have you failed at doing something, but kept trying and eventually made progress?"", please share why:"
+6a_tnt_extraleadership,string,"6A. Have you been a leader in an activity outside of studies, such as sports, theatre, art, etc (leading others or managing something)? "
+6b_tnt_extraleadership,string,"6B. If no for ""Have you been a leader in an activity outside of studies, such as sports, theatre, art, etc (leading others or managing something)?"", please share why:"
+7a_tnt_newskill,string,7A. Have you taught yourself or independently learned a new skill?
+7b_tnt_newskill,string,"7B. If no for ""Have you taught yourself or independently learned a new skill?"", please share why:"
+8a_tnt_helpingothers,string,"8A. Have you helped out / helped others in your community, such as by supporting relief efforts, organising a festival or function, etc?"
+8b_tnt_helpingothers,string,"8B. If no for ""Have you helped out / helped others in your community, such as by supporting relief efforts, organising a festival or function, etc?"", please share why:"
+9a_tnt_risktaking,string,9A. Have you tried something that you thought was scary or which made you anxious?
+9b_tnt_risktaking,string,"9B. If no for "" Have you tried something that you thought was scary or which made you anxious?"", please share why:"
+10a_tnt_project,string,10A. Have you started a personal project / business / social enterprise (on your own or with friends) outside of the Business Blasters program?
+10b_tnt_project,string,"[logic --> if yes to 10A; required; no q # needed]
+
+Please share an example of a personal project, business or social enterprise that you have started."
+11a_sa_feedback,string,"10B. If no for ""Have you started a personal project / business / social enterprise (on your own or with friends) outside of the Business Blasters program?"", please share why:"
+11b_sa_feedback,string,"11A. Have you asked for feedback about yourself from someone (for example, teachers, family, brothers/sisters, friends)?"
+12a_sa_helpseeking,string,"11B. If no for ""Have you asked for feedback about yourself from someone (for example, teachers, family, brothers/sisters, friends)?"", please share why:"
+12b_sa_helpseeking,string,12A. Have you asked for help when something was difficult or unclear?
+13a_sa_values,string,"12B. If no for ""Have you asked for help when something was difficult or unclear?"", please share why:"
+13b_sa_values,string,13A. Have you said no to doing something because you felt it was wrong (or because it did not match with your values)?
+14a_sa_emotions,string,"13B. If no for ""Have you said no to doing something because you felt it was wrong (or because it did not match with your values)?"", please share why:"
+14b_sa_emotions,string,14A. Have you identified and expressed the emotions that you feel?
+15a_sa_influence,string,"14B. If no for ""Have you identified and expressed the emotions that you feel?"", please share why:"
+15b_sa_influence,string,15A. Have you changed someone's opinion about something that was important to you?
+16a_ind_doingthingsalone,string,"15B. If no for ""Have you changed someone's opinion about something that was important to you?"", please share why:"
+16b_sa_doingthingsalone,string,16A. Have you done something that you really enjoyed even though you had to do it alone?
+17a_ind_againstnorm,string,"16B. If no for ""Have you done something that you really enjoyed even though you had to do it alone?"", please share why:"
+17b_ind_againstnorm,string,17A. Have you done something that was important to you even though most people around you said that you should not?
+18a_ind_reflection,string,"17B. If no for ""Have you done something that was important to you even though most people around you said that you should not?"", please share why:"
+18b_ind_reflection,string,18A. Have you changed something you were doing because you were unhappy?
+19a_ind_questioning,string,"18B. If no for ""Have you changed something you were doing because you were unhappy?"", please share why:"
+19b_ind_questioning,string,19A. Have you asked someone difficult questions or questions that made you feel uncomfortable?
+20a_ind_informeddecision,string,"19B. If no for ""Have you asked someone difficult questions or questions that made you feel uncomfortable?"", please share why:"
+20b_ind_informeddecision,string,"20A. Have you thought things through before making an important decision (for example, weighing the pros and cons, thinking about all options, thinking about how it will impact you and others)?"
+,,"20B. If no for ""Have you thought things through before making an important decision (for example, weighing the pros and cons, thinking about all options, thinking about how it will impact you and others)?"", please share why:"
