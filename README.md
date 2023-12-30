@@ -11,7 +11,7 @@ We gathered data on the tool from 70,000+ students across 5 states in India - De
 
 The MARch Project is a work in Progress.
 
-[Click here]([url](https://udhyam.gitbook.io/march/)) to learn more about MARch Project, access the Action Tools, share feedback or explore collaborations.
+To learn more about MARch Project, access the Action Tools, share feedback or explore collaborations, click here - https://udhyam.gitbook.io/march/
 
 [MARch Project]([url](https://udhyam.gitbook.io/march/)) © 2023 by [Udhyam Learning Foundation]([url](https://udhyam.org/)) is licensed under [Attribution 4.0 International]([url](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)) 
 
