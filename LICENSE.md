@@ -1,4 +1,5 @@
-Open Data Commons Attribution License (ODC-By) v1.0
+**Open Data Commons Attribution License (ODC-By) v1.0**
+
 DISCLAIMER
 Open Data Commons is not a law firm and does not provide legal services of any kind.
 
@@ -8,7 +9,8 @@ No warranties and disclaimer of any damages. This information is provided ‘as 
 
 A plain language summary of the ODC Attribution License (ODC-BY) is available as well as a plain text version.
 
-Attribution License (ODC-By)
+**Attribution License (ODC-By)**
+
 PREAMBLE
 The Open Data Commons Attribution License is a license agreement intended to allow users to freely share, modify, and use this Database subject only to the attribution requirements set out in Section 4.
 
