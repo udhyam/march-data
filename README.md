@@ -42,10 +42,10 @@ Variants of the Actions Tool, Participants and Location
 MARch_state_pre/post_date
 
 **Links**
-- MARch Project Details
-- MARch Actions Tool
-- Contributing Guidelines
-- Contribution Code of Conduct
+- MARch Project Details - https://udhyam.gitbook.io/march/
+- MARch Actions Tool - https://udhyam.gitbook.io/march/tool-version-1/actions-tool/download-the-actions-tool
+- Contributing Guidelines - https://app.gitbook.com/o/LLreaFrxCaBcouDbgDic/s/wTQFEGnXBGH6eqgDQu8A/actions-data/contributing-guidelines
+- Contribution Code of Conduct - https://app.gitbook.com/o/LLreaFrxCaBcouDbgDic/s/wTQFEGnXBGH6eqgDQu8A/actions-data/contributing-guidelines/contributor-covenant-code-of-conduct
 
 **License**
 Udhyam/MARch-Data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/
